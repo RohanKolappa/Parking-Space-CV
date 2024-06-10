@@ -93,11 +93,11 @@ Efficient parking management is crucial in urban areas due to the rise in vehicl
   - Data augmentation techniques improved model robustness.
   - Traditional computer vision approach provided faster and reliable detection.
 
-## Contributions
+## Contributors
 
-- **Athul Krishna Sughosh:** ML Model using PKLot dataset, Report
-- **Brian Dao:** ML Model on CCTV video and Traditional CV Approach, Report
-- **Rohan Kolappa:** Model Evaluation, Slides, Report
+- **Athul Krishna Sughosh:**
+- **Brian Dao:**
+- **Rohan Kolappa:**
 
 ## Conclusion
 
