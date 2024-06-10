@@ -97,7 +97,7 @@ Efficient parking management is crucial in urban areas due to the rise in vehicl
 
 - **Athul Krishna Sughosh:** ML Model using PKLot dataset, Report
 - **Brian Dao:** ML Model on CCTV video and Traditional CV Approach, Report
-- **Rohan Kolappa:** Model Evaluation, Report, Slides
+- **Rohan Kolappa:** Model Evaluation, Slides, Report
 
 ## Conclusion
 
@@ -106,9 +106,11 @@ Despite the CNN's high accuracy, its prediction time per space was impractical f
 ## References
 
 - **Datasets:**
-  - PKLot Dataset
-  - Custom Parking Dataset
-  - Live Video Parking Lot Feed
+  - PKLot Dataset: https://www.kaggle.com/datasets/ammarnassanalhajali/pklot-dataset
+  - Custom Parking Dataset: https://www.kaggle.com/datasets/mfaisalqureshi/parking
+  - Live Video Parking Lot Feed: https://drive.google.com/drive/folders/1CjEFWihRqTLNUnYRwHXxGAVwSXF2k8QC
+ 
+
 
 ## Code Files and Their Roles
 
