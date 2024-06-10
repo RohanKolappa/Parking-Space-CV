@@ -8,7 +8,7 @@ This project explores traditional computer vision techniques and machine learnin
 - [Methodology](#methodology)
 - [Experimental Results](#experimental-results)
 - [Challenges and Improvements](#challenges-and-improvements)
-- [Contributions](#contributions)
+- [Contributors](#contributors)
 - [Conclusion](#conclusion)
 - [References](#references)
 - [Code Files and Their Roles](#code-files-and-their-roles)
