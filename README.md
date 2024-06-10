@@ -95,9 +95,9 @@ Efficient parking management is crucial in urban areas due to the rise in vehicl
 
 ## Contributors
 
-- **Athul Krishna Sughosh:**
-- **Brian Dao:**
-- **Rohan Kolappa:**
+- **Athul Krishna Sughosh**
+- **Brian Dao**
+- **Rohan Kolappa**
 
 ## Conclusion
 
