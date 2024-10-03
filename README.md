@@ -93,11 +93,6 @@ Efficient parking management is crucial in urban areas due to the rise in vehicl
   - Data augmentation techniques improved model robustness.
   - Traditional computer vision approach provided faster and reliable detection.
 
-## Contributors
-
-- **Athul Krishna Sughosh**
-- **Brian Dao**
-- **Rohan Kolappa**
 
 ## Conclusion
 
